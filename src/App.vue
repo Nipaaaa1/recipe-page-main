@@ -1,3 +1,11 @@
+<script setup>
+import { useHead } from "@unhead/vue";
+
+useHead({
+  title: "Recipe Page",
+});
+</script>
+
 <template>
   <main class="bg-neutral-eggshel grid place-content-center md:py-24">
     <div class="font-outfit bg-white md:max-w-2xl md:rounded-3xl">
