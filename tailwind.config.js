@@ -9,7 +9,7 @@ export default {
           darkRaspberry: "hsl(332, 51%, 32%)",
         },
         neutral: {
-          roseWhtie: "hsl(330, 100%, 98%)",
+          roseWhite: "hsl(330, 100%, 98%)",
           eggshel: "hsl(30, 54%, 90%)",
           lightGrey: "hsl(30, 18%, 87%)",
           wengeBrown: "hsl(30, 10%, 34%)",
